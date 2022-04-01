@@ -34,7 +34,7 @@ const Work = () => {
                 title: "Old Portfolio",
                 description:
                     "This one is my old portfolio built using React.js",
-                link: "https://suraj-rajput-portfolio.netlify.app/",
+                link: "https://suraj-rajput-old-portfolio.netlify.app/",
                 imageUrl: images.oldPortfolio,
                 tags: ["React JS", "All"],
             },
