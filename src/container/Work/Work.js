@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import { AiFillEye, AiFillEyeInvisible } from "react-icons/ai";
 
-import { AppWrap } from "../../wrapper";
+import { AppWrap, MotionWrap } from "../../wrapper";
 import { images } from "../../contants";
 import "./Work.scss";
 
@@ -214,4 +214,8 @@ const Work = () => {
     );
 };
 
-export default AppWrap(Work, "work");
+export default AppWrap(
+    MotionWrap(Work, "app__works"),
+    "work",
+    "app__primarybg"
+);
