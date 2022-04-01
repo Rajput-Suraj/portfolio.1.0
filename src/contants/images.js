@@ -35,6 +35,12 @@ import nb from "../assets/nb.png";
 import skype from "../assets/skype.png";
 import spotify from "../assets/spotify.png";
 import man from "../assets/man.png";
+import omnifood from "../assets/omnifood.png";
+import youtube from "../assets/youtube.png";
+import spotifyClone from "../assets/spotify-clone1.png";
+import dnd from "../assets/dnd1.png";
+import oldPortfolio from "../assets/old-portfolio1.png";
+import weather from "../assets/weather1.png";
 
 export default {
     email,
@@ -71,4 +77,10 @@ export default {
     skype,
     spotify,
     man,
+    omnifood,
+    youtube,
+    spotifyClone,
+    dnd,
+    oldPortfolio,
+    weather,
 };
