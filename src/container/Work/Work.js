@@ -23,6 +23,21 @@ const Work = () => {
                 tags: ["Website", "All"],
             },
             {
+                title: "React Drah n Grop",
+                description:
+                    "Drag and drop for lists with React & another external library",
+                link: "https://suraj-react-drag-and-drop.netlify.app/",
+                imageUrl: images.dnd,
+                tags: ["React JS", "All"],
+            },
+            {
+                title: "Weather",
+                description: "PWA built using React.js and Open Weather API",
+                link: "https://mypwa-weather-app-react.netlify.app/",
+                imageUrl: images.weather,
+                tags: ["PWA", "All"],
+            },
+            {
                 title: "Spotify Clone",
                 description:
                     "React appbuilt using React.js & used spotify API to get the user's playlists",
@@ -44,21 +59,6 @@ const Work = () => {
                     "A Dummy YouTube clone website built using React.js, Material UI",
                 link: "https://rajput-suraj.github.io/youtube-clone/",
                 imageUrl: images.youtube,
-                tags: ["React JS", "All"],
-            },
-            {
-                title: "Weather",
-                description: "PWA built using React.js and Open Weather API",
-                link: "https://mypwa-weather-app-react.netlify.app/",
-                imageUrl: images.weather,
-                tags: ["PWA", "All"],
-            },
-            {
-                title: "React Drah n Grop",
-                description:
-                    "Drag and drop for lists with React & another external library",
-                link: "https://suraj-react-drag-and-drop.netlify.app/",
-                imageUrl: images.dnd,
                 tags: ["React JS", "All"],
             },
         ]);
@@ -72,6 +72,21 @@ const Work = () => {
                 tags: ["Website", "All"],
             },
             {
+                title: "React Drah n Grop",
+                description:
+                    "Drag and drop for lists with React & another external library",
+                link: "https://suraj-react-drag-and-drop.netlify.app/",
+                imageUrl: images.dnd,
+                tags: ["React JS", "All"],
+            },
+            {
+                title: "Weather",
+                description: "PWA built using React.js and Open Weather API",
+                link: "https://mypwa-weather-app-react.netlify.app/",
+                imageUrl: images.weather,
+                tags: ["PWA", "All"],
+            },
+            {
                 title: "Spotify Clone",
                 description:
                     "React appbuilt using React.js & used spotify API to get the user's playlists",
@@ -93,21 +108,6 @@ const Work = () => {
                     "A Dummy YouTube clone website built using React.js, Material UI",
                 link: "https://rajput-suraj.github.io/youtube-clone/",
                 imageUrl: images.youtube,
-                tags: ["React JS", "All"],
-            },
-            {
-                title: "Weather App",
-                description: "PWA built using React.js and Open Weather API",
-                link: "https://mypwa-weather-app-react.netlify.app/",
-                imageUrl: images.weather,
-                tags: ["PWA", "All"],
-            },
-            {
-                title: "React Drah n Grop",
-                description:
-                    "Drag and drop for lists with React & another external library",
-                link: "https://suraj-react-drag-and-drop.netlify.app/",
-                imageUrl: images.dnd,
                 tags: ["React JS", "All"],
             },
         ]);
